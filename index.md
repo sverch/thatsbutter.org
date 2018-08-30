@@ -1,4 +1,4 @@
-## Humans Shouldn't Have To Think About This
+## A Human Shouldn't Have To Think About This
 
 Butter is an experimental project to simply and transparently handle the things
 a human shouldn't have to think about when deploying a production application.
