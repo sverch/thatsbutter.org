@@ -17,5 +17,6 @@ simplify and visualize an infrastructure setup.
 
 {% include example.svg %}
 
-Walk through the top level README.md at https://github.com/sverch/butter to
-learn more!
+Walk through the top level README.md at
+[https://github.com/sverch/butter](https://github.com/sverch/butter) to learn
+more!
